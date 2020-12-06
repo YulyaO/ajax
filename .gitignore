@@ -1,0 +1,10 @@
+node_modules/
+temp/
+*.bat
+
+
+# IntellijIdea files
+.idea/
+.history/
+.DS_Store
+.vscode/
