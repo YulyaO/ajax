@@ -6,5 +6,5 @@ temp/
 # IntellijIdea files
 .idea/
 .history/
-.DS_Store
+
 .vscode/
